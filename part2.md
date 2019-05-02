@@ -1,6 +1,6 @@
 ## Part 2 - Many-to-Many
 
-Your roastery has blown up on instagram and you are expanding.
+Your roastery has blown up on instagram and you are expanding..
 
 Your app already tracks what you buy and roast, and the kopis you produce.
 
